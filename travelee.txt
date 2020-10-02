@@ -1,0 +1,385 @@
+{
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 51.898275,
+                    "lng": -8.477428999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.89963002989273,
+                        "lng": -8.476024670107277
+                    },
+                    "southwest": {
+                        "lat": 51.89693037010728,
+                        "lng": -8.47872432989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "93937e27bf3293c1a984d04aadc192d4e7e7fe5a",
+            "name": "The Raven Bar",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113077096846982008748/photos\">The Raven Bar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAAwsyI1c1hbFPcXJ_zw2utwi7B9XakQbmTflsoovFC6Kd9fDh5rrvj5_qtq6R4cNkPtrvAZWHjn9o-tVXBaBo58e_rAFwx-jge8jXwiZqqg44OoZeO3FZP47bUjMyQaIAEhCoycM5WnHaq3rcdIuV8tDHGhQzA7Q0kS0Tj5H9EMOJisRdAX-ksQ",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJeb-WzhCQREgRT5UCFzUDN5k",
+            "rating": 4.2,
+            "reference": "CmRbAAAAK1zau0y-Xj-RyRo1JQ3JnZvWLuNyjWxCByJ7qV4sywDfaQ55WHmkwTOy7JR4FMgVuvq1UKqy1wvfDeTTRSVGjogtNAD15he0RQsPKI6BphN8jI4VRAGp0Q0TMlGkUhzMEhCAkN6MUzzLUlE4F0wxJ6aQGhQhOwFLo35IvLqRKr5aTH-pRRl3Uw",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "100 S Main St, Centre, Cork"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 51.899688,
+                    "lng": -8.473036
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.90103782989272,
+                        "lng": -8.47168617010728
+                    },
+                    "southwest": {
+                        "lat": 51.89833817010728,
+                        "lng": -8.474385829892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "b37b2c00f38a250c132c193acea38b3ef2bd7673",
+            "name": "Crawford Gallery Cafe",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1179,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105792588912324079312/photos\">Crawford Gallery Cafe</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADk1uWqz_jY943SgchBAcidZV1nUoapdE0y70EZBxWRMKDvi-55ItEnhYa4muGTaqanEP11CCRpl2YqnEIvZwxlbgZSKHyMXrXbP3-TGqYJXl0-w1RGn-goK9w2KR8_4kEhDTWNyvVnzK3LHAZeUR6MeDGhSWKdcMxCUYCo_Q_2cf5-MXEEGg8w",
+                    "width": 1766
+                }
+            ],
+            "place_id": "ChIJg-15yxGQREgRdbKg9VksY9w",
+            "rating": 4.5,
+            "reference": "CmRbAAAAGnV9I9Zqhbm-MqPvzd5XdrGsCejpLdfEVNSig2_7Y1CybdCWkxpNjccCYq8lnRZfrexaRYnQfoayD5OlQ6qyiHTzkwCKlEKyvCaXxcdXTVbhrcBbF0IYp-5E00AfeN7eEhATGG85Tw2t7fexLtN6IxCnGhSwlqq-aXaHc8ki3Owm5SzqJxZkzw",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Crawford Art Gallery, Centre, Cork City"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 51.896093,
+                    "lng": -8.474576899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.89747597989272,
+                        "lng": -8.473152120107278
+                    },
+                    "southwest": {
+                        "lat": 51.89477632010728,
+                        "lng": -8.475851779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "7044e967d8f835972952ebff44910530411e550d",
+            "name": "Monumento Nacional",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ383vbxqQREgRJHMPn5QHezs",
+            "reference": "CmRbAAAA2YOh64RIORbQbzvxyFiENw3h2otBw2bwLAdcWAarJZld6qaYyTmC9WmcBnvEbxIw-D8MB9SGdIVt7aOe9FM1TuGb4qosk_HJyqrgiDp_GkW4wcA3I5nnelrgZStLyOU_EhAFKvo0EPhFLGf8gfUaD6HEGhQLFeyVwlBf-2PMCSDjcHxqei52lA",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "46 Grand Parade, Centre, Cork"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 51.8939076,
+                    "lng": -8.4733407
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.89521252989272,
+                        "lng": -8.471760270107279
+                    },
+                    "southwest": {
+                        "lat": 51.89251287010728,
+                        "lng": -8.474459929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "9550bc79616aaa03d71bd902ed389ee5665ef2d3",
+            "name": "Nano Nagle Place",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 5789,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100361600975166223347/photos\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAa1elxT6PM4vNtlJLsQa-xIj4-0qIlviPyowOPPi-0kElcG8D3U6AXHIchduwTO8GxqqUDeFz7UPUikKBE8qbpXO2zifjhRyrjY-un8f1SV5tGL_IMqvZRG2pCOrsuoN3EhAcnZ5cR5clWm4f8_3xk4gyGhS_WzyPgKuhHx6lpZ67XiMmiBrPHQ",
+                    "width": 8685
+                }
+            ],
+            "place_id": "ChIJRTpmDxuQREgR_QrakJGRtWQ",
+            "rating": 4.9,
+            "reference": "CmRbAAAACAmL4Z9ladZM8Lw0n8-mwY8m5GvrYGcWg_FNhtYgjs1XVpC4bzT0VQNu9sJfLjjGmgiG_U6yEwzmiim7mTsgUqFt_A3YjvAUBmUNepz3-QQ9ufzOlfBcDu_ryN6FKNYhEhDhJUHzTJMcTlb-OF8Ne3BSGhTstm-hVTh4A0FXKRk6bnHK-fQjLw",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "museum",
+                "book_store",
+                "park",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Douglas St, Ballintemple, Cork"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 51.898275,
+                    "lng": -8.477428999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.89963002989273,
+                        "lng": -8.476024670107277
+                    },
+                    "southwest": {
+                        "lat": 51.89693037010728,
+                        "lng": -8.47872432989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "93937e27bf3293c1a984d04aadc192d4e7e7fe5a",
+            "name": "The Raven Bar",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113077096846982008748/photos\">The Raven Bar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAd8XYfMGfx2Hs0YQckOQ2fC-IhxO_SpnXruXJB_vBi5rsYUEYA07A1ZODP7u9lyExNsQywX-kWoINbsSlGXIg_Du3jDStxgww1VDVmuWzVkw8XuXlYvt-rt0mlqpv5WCrEhCYOe6aDGmSKKpfwgw_MWGAGhRtEJQpuEyg67AvA15O19Tv6HmksA",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJeb-WzhCQREgRT5UCFzUDN5k",
+            "rating": 4.2,
+            "reference": "CmRbAAAALzLAP-Mi34r9rK0dAhpcii0tTf5-tkolZ9XtYrAU9w2XoowK1D0G_flwxsrO6hsT-0mAJ0-7Wuy7sPssIzaN7XOPnE9w2d7Cq2puhxfdzFtAtQGQIIVjszlJ8ygJhbBTEhDZjsjgbi1nOFMyKlKer9-9GhRnxZmnfSqjX2Y0KIKNQO_DyeWZVg",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "100 S Main St, Centre, Cork"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 51.9030126,
+                    "lng": -8.4768056
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.90436242989272,
+                        "lng": -8.47545577010728
+                    },
+                    "southwest": {
+                        "lat": 51.90166277010728,
+                        "lng": -8.478155429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "c1058594404097ee5d7da1292f0b81e6f0d493f5",
+            "name": "Shandon Craft Centre",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101902778748922542953/photos\">Lu Quadro</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAfKiMfDibFgifAJ-QJC8izjen2eKA1UOcPkw9FuaxvJWbSZRJDwp_ady7cVJauaekSJXCnQ4vGAobxjxvp5udewsC6fi7aYnv-BeptBBoc26F5_fBhjNhCd0Vk7ZwrdY4EhBWV1zcwUV9V93K6CskT8v_GhSsLe7wIlHOrUFYVY-hKfgV0-E3Gw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJa-Q4yROQREgRT6lgoScMU-U",
+            "rating": 5,
+            "reference": "CmRbAAAAnThm7M4LkyEw2pHgNsQ2ggMdy9YCDg5TJ8jLMU8EeunvvrAYI42T_hIxjbVCXVJjXEJdqKwHtA26x3JiNjD3e6hv73LoZo-70h55ZDgJMMJ6e5CELSskVWcliazDr2VmEhC9agXcagp3TvRTTNR0Q_IQGhQcppibqzRG3Y46anhGtNz3MID8pw",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "John Redmond St, Shandon, Cork"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 51.8987331,
+                    "lng": -8.4731135
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.90009957989273,
+                        "lng": -8.471709770107276
+                    },
+                    "southwest": {
+                        "lat": 51.89739992010729,
+                        "lng": -8.47440942989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "37d729898d52902d2f2ab916cbb286984048f12d",
+            "name": "John Francis Maquire Plaque",
+            "photos": [
+                {
+                    "height": 301,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112706742221575840784/photos\">A Google User</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFLZ8w60UXYji_HUqGSAvMyXTdshDCl9ye7fnyPsFIfWNM6w7KLJFjPephsyp-JtRpcVQAA6TYNinBwrG3p7HbINYrZS_Dwq29JN6L69kfm9NIkeYloq-2XTDKvBguDXjEhD8cqTvtVgL6I4UPYCy5svfGhSg9e6-Y29BJPVFySwYMgHzd1uEEg",
+                    "width": 403
+                }
+            ],
+            "place_id": "ChIJq-eGRhCQREgRg7LGGg8gpkQ",
+            "reference": "CmRbAAAANy_sA0E7PtMk_ZVgnBNIFV0oInmhebkH5fqHAiTicPKXi8RAVbydlBiL5kuo2bC2MAq7hpDxOUcNlmJcyyCjoDdudZNAcHl78g0W9s4-gq5ELlBh9oLsgLxlojaxf-tnEhBou3nXRAgZTjUXLfjRslvYGhRXVFHXsqTkcyM6KwzUgF3_SZjoaA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "11 Academy St, Centre, Cork"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 51.9019352,
+                    "lng": -8.473099999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.90328502989272,
+                        "lng": -8.47175017010728
+                    },
+                    "southwest": {
+                        "lat": 51.90058537010727,
+                        "lng": -8.474449829892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "87495e5e126bd274c0cb874498ae22e5d63c3067",
+            "name": "Pa Johnson's Bar",
+            "place_id": "ChIJ9TvO9hGQREgRn4px40keAAU",
+            "rating": 4,
+            "reference": "CmRbAAAA2PdRibRMqzCFq7erhzU59ZpaQoTt3VUG3YKNaWEO4d1Ods2kvZH-CJwyet0bejgNNXNoJUZQlypSGN_u9LKPn_hKAS5j_g-e34-zO250AUcHKqx_VI_EfAg4qtlMYmwSEhDTWXINfYRYqw_gwjAXidyuGhQ8RWHDf_73L5wDYRPATBcNFDJCkA",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Shandon, Cork"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 51.897879,
+                    "lng": -8.475608
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.89925867989272,
+                        "lng": -8.474269320107275
+                    },
+                    "southwest": {
+                        "lat": 51.89655902010728,
+                        "lng": -8.47696897989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "b444302fdfecca5662f64be2bef502fbe3c7d81e",
+            "name": "Café Gusto",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103235261472587178059/photos\">Cafe Gusto</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFXj1cokcUK3ekacEHET-GYwXdYqc73e8ZU8eI7yVhzpMRuuCJgQjrr_bkXicoPrJcKKT8fLO8ejow7SBFNd9Nh2_kygpEPOKKzkC-ebuneYv942Z8xYDr0MRUt_1P8h6EhAnqoVYeGiBdhIxdWBPlMOvGhQlEWAD3b76RRcGRNpvyAFiAcgqdA",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJmbJglBCQREgRpEMR5SF7zkg",
+            "rating": 4.5,
+            "reference": "CmRbAAAAIwxei21bzvBvzgQd33AL_fkqNUXxnPIK3lvKzTOGm0k7BS_2vZR-Yj6Lr5q69Bd_WGROlq-EHEH1IEZPlwWENz8wRtlygDpaXnHt7t3kHL7zdJa6fcY_8y2t3_efFOuWEhBaSO-9KS7LhqTU7jBqZPMhGhQXXbcdHhVkZTFbBtdY96n4TUusXQ",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "meal_delivery",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "3 Washington St, Centre, Cork"
+        }
+    ]
+}

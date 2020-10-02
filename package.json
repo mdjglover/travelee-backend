@@ -1,0 +1,20 @@
+{
+  "name": "travelee_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6",
+    "request": "^2.83.0",
+    "sort-json-array": "^0.1.7"
+  }
+}
