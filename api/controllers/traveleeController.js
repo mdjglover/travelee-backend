@@ -5,11 +5,7 @@ var mongoose = require('mongoose'),
   Trip = mongoose.model('Trip');
 var request = require('request');
 var jsonSort = require('sort-json-array');
-var key = "AIzaSyCBK9DcA1myZY9kLi24J65dvzu2zCFc-Ik";
-
-// key = AIzaSyDABoCKKU8ElJYuvKQa_c95pPYKU-RBsj8
-// spare key = AIzaSyDOCuie_UYb_wm7jlb1N1hrx4R2-PkYA9A
-// spare spare key = AIzaSyCBK9DcA1myZY9kLi24J65dvzu2zCFc-Ik
+var key = "INSERT KEY HERE"
 
 
 exports.get_trip_data = function(req, res) {
